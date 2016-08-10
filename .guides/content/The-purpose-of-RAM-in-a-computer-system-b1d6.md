@@ -1,0 +1,1 @@
+RAM stands for Random Access Memory. We have previously mentioned how instructions are fetched from RAM as it is fast access memory. RAM stores the instructions for currently running programs and data, as well as the part of the operating system that is being used.
