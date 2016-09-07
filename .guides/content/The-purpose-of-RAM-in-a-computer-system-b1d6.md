@@ -1,1 +1,3 @@
-RAM stands for Random Access Memory. We have previously mentioned how instructions are fetched from RAM as it is fast access memory. RAM stores the instructions for currently running programs and data, as well as the part of the operating system that is being used.
+![](.guides/img/ram.png)
+
+RAM stands for Random Access Memory. We have previously mentioned how instructions are fetched from RAM as it is fast access memory. RAM stores the instructions for currently running programs and data, as well as the part of the operating system that is being used. Remember that any contents that are stored in RAM are erased when power is lost. If you think about if you had five programs running and all of a sudden power is lost, when you turn the computer back on, the running programs have been closed. The same principle would apply to any work that wasn’t saved.

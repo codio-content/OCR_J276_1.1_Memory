@@ -1,6 +1,17 @@
 {
  "sections": [
   {
+   "id": "92a83f9a-39d1-f668-eb07-7448b9e7e355",
+   "title": "Memory",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Memory-92a8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "d3e9304b-013a-810e-3628-0601ef2aa183",
    "title": "The difference between RAM and ROM",
    "files": [],

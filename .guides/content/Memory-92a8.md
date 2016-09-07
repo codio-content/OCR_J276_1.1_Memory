@@ -1,0 +1,1 @@
+The CPU needs to be able to retrieve the instructions from somewhere whilst processing. This piece of hardware is called memory. There are two different types of memory depending on whether the contents that are stored in there are going to change.
