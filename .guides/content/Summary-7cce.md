@@ -4,4 +4,4 @@ In this lesson we have looked at:
 - The purposes of RAM and ROM
 - The differences between RAM and ROM
 - The need for virtual memory.
-Flash memory.
+- Flash memory.
