@@ -1,3 +1,0 @@
-![](.guides/img/rom.png)
-
-ROM stands for Read only memory and as the name suggests the contents cannot usually be changed. This type of memory is used to boot up the Operating system and BIOS. During the boot up the type of hard disk is checked, along with the amount of RAM and the type of CPU being used. The contents of ROM can’t be changed and this is useful for some devices. Think about the temperature settings on a washing machine? those exact temperatures need to be stored even when there is no power.
