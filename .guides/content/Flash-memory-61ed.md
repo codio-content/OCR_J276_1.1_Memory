@@ -1,5 +1,5 @@
 Flash memory, like ROM is non-volatile and like RAM it can be written to.
-Flash memory was developed from the type of ROM called ‘electrically erasable programmable read only memory’ (EEPROM) as mentioned above and was introduced in 1984.
+Flash memory was developed from the type of ROM called ‘electrically erasable programmable read only memory’ (EEPROM) and was introduced in 1984.
 EEPROMs had to be completely erased before they could be written to, but flash memory can be written to and read in small blocks.
 
 Flash memory consists of transistors that keep their charge even when the power is switched off called floating gate transistors.  (Normal transistors lose their state when the power is turned off).
