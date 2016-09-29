@@ -1,0 +1,35 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3332891901",
+  "source": {
+   "name": "Question1",
+   "showName": false,
+   "instructions": "**Enter either RAM or ROM as the answer to the following statements**",
+   "points": "1",
+   "showValues": false,
+   "text": "Data can be written to this memory: <<<RAM>>>\nThis memory is non-volatile: <<<ROM>>>\nData cannot be written to this memory: <<<ROM>>>\nThis memory is volatile: <<<RAM>>>\nThe contents of this memory are constantly changing: <<<RAM>>>",
+   "tokens": {
+    "blank": [
+     "RAM",
+     "ROM",
+     "ROM",
+     "RAM",
+     "RAM"
+    ],
+    "text": [
+     "Data can be written to this memory: ",
+     0,
+     "\nThis memory is non-volatile: ",
+     0,
+     "\nData cannot be written to this memory: ",
+     0,
+     "\nThis memory is volatile: ",
+     0,
+     "\nThe contents of this memory are constantly changing: ",
+     0
+    ]
+   }
+  }
+ }
+]
